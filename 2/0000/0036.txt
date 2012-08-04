@@ -13,37 +13,37 @@ Este misterio será resuelto
 El objeto perdido fue olvidado
 El objeto perdido no fue encontrado 
 ¡Coleccionista de fertilizantes!
-ときめく　ハートは　どこに？
+¿Cuánto tiempo prosperará el corazón?
 ¡Encuentra la baya fantasma!
 ¡El objeto fantasma!
 !Busqueda para la baya fantasma!
 ¡Fiesta de Bayas!
 ¡Encuentra el niño perdido!
 !Esa ruta es larga!
-かくとうかと　しゅぎょう！
-\xf000ȃ\x0001\x0001にん　くみて！
+¡Entrenando y cinturón negro!
+\xf000ȃ\x0001\x0001trabajador!
 ¡El camino a la elite!
-めざせ　わらしべちょうじゃ！
-ドキドキ　ぶつぶつこうかん！
-ウキウキ　ぶつぶつこうかん！
+¡Objetivo para ricos!
+¡Intercambio emocionante!
+¡Intercambio alegre!
 ¡Disfruta las compras!
 ¿El coste de las ideas...?
 ¿El coste de la verdad...?
-ホントの　おねだんは……？
-きおくの　げんかいへ……
+¿Qué es el precio de la verdad...?
+Límites de la memoria...
 ¡Entrenamiento de memoria!
 !Torneo de Piedra-papel-tijeras¡
 Enfermera del centro pokemon
 !Pokepregunta!
-おかいもの　だいさくせん！
-おわりなき　たたかい……！
-ポケモンセンター　クイズおう！
+¡Competencia Épica de Compras!
+¡Lucha sin fín!
+¡Presentador del Concurso del Centro Pokémon!
 クイズおう　けっていせん
-めざせ！　ポケモンクイズおう！
-おねえさんからの　プレゼント
-ゆれる　くさむらを　さがせ！
-Busqueda pokemon \xf000ȃ\x0001\x0001！
-\xf000ā\x0001\x0000を　さがせ！
+¡Ve a por él!¡Presentador Pokémon!
+¡Regalo de Hermana Mayor!
+¡Mira al pasto moviendose!
+Busqueda pokemon \xf000ȃ\x0001\x0001!
+Busqueda de\xf000ā\x0001\x0000!
 かねを　ならして……
 \xf000ȃ\x0001\x0001かい　なりひびく　かね
 きのこの　かくれんぼ！
